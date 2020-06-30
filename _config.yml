@@ -99,5 +99,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:xiaoweizi2/wei.github.io.git
+  repository: https://github.com/xiaoweizi2/wei.github.io.git
   branch: master
